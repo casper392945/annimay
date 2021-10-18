@@ -1,2 +1,2 @@
-# annimay
+# annimay.css
 GitHub Pages
